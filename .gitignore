@@ -1,5 +1,3 @@
-custom/zsh
-
 vim/backups
 vim/view
 *un~
@@ -14,3 +12,5 @@ vim/sessions
 .netrwhist
 bin/subl
 tags
+secrets/*
+secrets
