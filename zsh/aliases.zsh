@@ -109,6 +109,7 @@ alias gplr='git pull --rebase'
 alias gps='git push'
 alias gpsh='git push -u origin `git rev-parse --abbrev-ref HEAD`'
 alias gnb='git nb' # new branch aka checkout -b
+alias gcb='git checkout'
 alias grs='git reset'
 alias grsh='git reset --hard'
 alias gcln='git clean'
@@ -190,3 +191,5 @@ alias dbmu='spring rake db:migrate:up'
 
 # Homebrew
 alias brewu='brew update && brew upgrade && brew cleanup && brew prune && brew doctor'
+
+alias fuck='$(thefuck $(fc -ln -1))'

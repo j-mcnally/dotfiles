@@ -1,0 +1,1 @@
+alias act="$HOME/scala/activator-1.2.12/activator"

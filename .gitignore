@@ -12,5 +12,3 @@ vim/sessions
 .netrwhist
 bin/subl
 tags
-secrets/*
-secrets

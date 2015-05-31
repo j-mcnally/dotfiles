@@ -1,0 +1,1 @@
+alias kp="cd $HOME/projects"
