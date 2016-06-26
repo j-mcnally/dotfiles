@@ -41,6 +41,7 @@
   # diff
   d = diff                          # diff unstaged changes
   dc = diff --cached                # diff staged changes
+  dsf = "!git diff --color $@ | diff-so-fancy"
   last = diff HEAD^                 # diff last committed change
 
   # log

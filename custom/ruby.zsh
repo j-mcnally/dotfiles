@@ -1,4 +1,4 @@
-chruby 2.1.3
+chruby 2.2.2
 
 export ARCHFLAGS="-arch x86_64"
 
