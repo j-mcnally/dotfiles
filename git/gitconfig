@@ -126,6 +126,6 @@
   path = .gitconfig.user
 [user]
 	name = Justin McNally
-	email = justin@kohactive.com
+	email = justin.cole.mcnally@gmail.com
 [credential]
 	helper = osxkeychain
